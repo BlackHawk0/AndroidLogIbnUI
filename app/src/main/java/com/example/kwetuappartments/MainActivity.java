@@ -3,7 +3,7 @@ package com.example.kwetuappartments;
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.example.kwetuappartments.VI.ViewImage1;
+import com.example.kwetuappartments.VI.ViewImage2;
 import com.example.kwetuappartments.VI.ViewImage2;
 import com.example.kwetuappartments.VI.ViewImage3;
 import com.example.kwetuappartments.VI.ViewImage4;
@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent j = new Intent(MainActivity.this,
-                        ViewImage1.class);
+                        ViewImage2.class);
                 startActivity(j);
 
             }

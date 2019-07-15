@@ -20,13 +20,13 @@
 
     <EditText
         android:id="@+id/email"
-        android:layout_width="250dp"
-        android:layout_height="36dp"
+        android:layout_width="302dp"
+        android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginEnd="42dp"
-        android:layout_marginBottom="307dp"
+        android:layout_marginBottom="303dp"
         android:background="@drawable/button_rectangle"
         android:drawableLeft="@drawable/ic_action_name"
         android:ems="10"
@@ -36,13 +36,13 @@
 
     <EditText
         android:id="@+id/password"
-        android:layout_width="250dp"
-        android:layout_height="36dp"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginEnd="40dp"
-        android:layout_marginBottom="222dp"
+        android:layout_marginEnd="42dp"
+        android:layout_marginBottom="218dp"
         android:background="@drawable/button_rectangle"
         android:drawableLeft="@drawable/icon_password"
         android:ems="10"
@@ -56,9 +56,9 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="139dp"
-        android:layout_marginEnd="130dp"
-        android:layout_marginBottom="127dp"
+        android:layout_marginStart="141dp"
+        android:layout_marginEnd="128dp"
+        android:layout_marginBottom="136dp"
         android:background="@drawable/button_rectangle"
         android:text="Log in" />
 
@@ -68,7 +68,7 @@
         android:layout_height="216dp"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="78dp"
+        android:layout_marginEnd="107dp"
         android:layout_marginBottom="401dp"
         app:srcCompat="@drawable/logo" />
 
@@ -78,8 +78,8 @@
         android:layout_height="29dp"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="93dp"
-        android:layout_marginBottom="59dp"
+        android:layout_marginEnd="131dp"
+        android:layout_marginBottom="55dp"
         android:text="Register Here"
         android:textColor="@android:color/background_light"
         android:textSize="20sp" />
